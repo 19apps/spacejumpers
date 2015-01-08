@@ -1,4 +1,0 @@
-baseurl = "http://spacejumpers.19apps.com"
-languageCode = "en-us"
-title = "my new hugo site"
-publishdir = "public"
